@@ -1,0 +1,1 @@
+# NTIRE-2025-Efficient-SR-Challenge-SVM-43
