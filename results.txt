@@ -1,0 +1,2 @@
+Model               	Val PSNR  	Val Time [ms] 	Params [M]	FLOPs [G] 	Acts [M]	Mem [M] 	Conv    
+43_SepSRNet         	26.92     	25.53         	0.251     	13.39     	167.44  	480.64  	 129    
