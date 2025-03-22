@@ -6,7 +6,7 @@ Official submission by **Team SVM** for the [NTIRE 2025 Challenge on Efficient S
 
 
 <div align=center>
-<img src="https://github.com/Amazingren/NTIRE2025_ESR/blob/main/figs/logo.png" width="400px"/> 
+<img src="https://github.com/junkim1310/NTIRE-2025-Efficient-SR-Challenge-SVM-43/blob/main/figs/Overall_architecture.jpg" width="400px"/> 
 </div>
 
 ## News
