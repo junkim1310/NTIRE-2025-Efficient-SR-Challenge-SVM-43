@@ -34,7 +34,6 @@ or take it as a reference based on your original environments.
 We provide the performance of our SepSRNet measured on an NVIDIA RTX A6000 GPU as follows:
 - Average PSNR on DIV2K_LSDIR_valid: 26.92 dB
 - Number of parameters: 0.251 M
-- Number of parameters: 0.276 M
 - Runtime: 25.53 ms on DIV2K_LSDIR_valid data
 - FLOPs on an LR image of size 256×256: 13.39 G
 
