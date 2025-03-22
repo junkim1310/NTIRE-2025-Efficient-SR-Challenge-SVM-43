@@ -1,4 +1,9 @@
-# [NTIRE 2025 Challenge on Efficient Super-Resolution](https://cvlai.net/ntire/2025/) @ [CVPR 2025](https://cvpr.thecvf.com/)
+# SepSRNet (Team SVM) — NTIRE 2025 Challenge on Efficient Super-Resolution @ [CVPR 2025](https://cvpr.thecvf.com/)
+
+Official submission by **Team SVM** for the [NTIRE 2025 Challenge on Efficient Super-Resolution](https://cvlai.net/ntire/2025/).
+
+🔗 Team page: [https://sites.google.com/view/csi2267svm/](https://sites.google.com/view/csi2267svm/)
+
 
 <div align=center>
 <img src="https://github.com/Amazingren/NTIRE2025_ESR/blob/main/figs/logo.png" width="400px"/> 
