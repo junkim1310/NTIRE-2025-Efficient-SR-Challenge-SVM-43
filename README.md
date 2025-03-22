@@ -42,7 +42,7 @@ We provide the performance of our SepSRNet measured on an NVIDIA RTX A6000 GPU a
 - The model architecture is defined in `models/team43_SepSRNet.py`.
 - The pre-trained weights are provided in `model_zoo/team43_SepSRNet.pth`.
 
-## Participants
+## Our team members
 - Jun Young Kim (junkim1310@dgu.ac.kr)  
 - Jae Hyeon Park (pjh0011@dongguk.edu)  
 - Bo Gyeong Kim (qhruddl51@dgu.ac.kr)  
